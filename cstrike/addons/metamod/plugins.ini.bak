@@ -1,10 +1,9 @@
 win32 addons\amxmodx\dlls\amxmodx_mm.dll
 win32 addons\reunion\reunion_mm.dll
 win32 addons\revoice_plus\revoice_plus_mm.dll
-
-; Optional Modules
-;win32 addons\reauthcheck\reauthcheck_mm.dll
-;win32 addons\rechecker\rechecker_mm.dll
-;win32 addons\whblocker\whblocker_mm.dll
-;win32 addons\resemiclip\resemiclip_mm.dll
-;win32 addons\hitbox_fix\hitbox_fix_mm_i386.dll
+win32 addons\reauthcheck\reauthcheck_mm.dll
+win32 addons\whblocker\whblocker_mm.dll
+win32 addons\rechecker\rechecker_mm.dll
+win32 addons\resemiclip\resemiclip_mm.dll
+win32 addons\amxmodx\modules\reapi_amxx.dll
+win32 addons\hitbox_fix\hitbox_fix_mm.dll
