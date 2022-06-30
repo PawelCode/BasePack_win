@@ -24,7 +24,7 @@
 
 | 📁 Main                                                                               | Author name            | Version     |
 |:-----------------------------------------------                                       |:----------------------|:-------------|
-| 🔧 [AMX Mod X](https://www.amxmodx.org/amxxdrop/1.9/)                                 | [AMXX Dev Team](https://www.amxmodx.org/)         | 1.9.0.5281   |
+| 🔧 [AMX Mod X](https://www.amxmodx.org/amxxdrop/1.9/)                                 | [AMXX Dev Team](https://www.amxmodx.org/)         | 1.10.0.5461   |
 | 💣 [MetaMod -r](https://github.com/theAsmodai/metamod-r)                                 | [theAsmodai](https://github.com/theAsmodai)            | 1.3.0.86      |
 | 📈 [ReHLDS](https://github.com/dreamstalker/rehlds/)                                     | [dreamstalker](https://github.com/dreamstalker)          | 3.11.0.777   |
 | ⚙️ [ReAPI](https://github.com/s1lentq/reapi)      								                        | [s1lentq](https://github.com/s1lentq)               | 5.21.0.252   |
