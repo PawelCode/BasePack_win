@@ -25,7 +25,7 @@
 | 📁 Main                                                                               | Author name            | Version     |
 |:-----------------------------------------------                                       |:----------------------|:-------------|
 | 🔧 [AMX Mod X](https://www.amxmodx.org/amxxdrop/1.9/)                                 | [AMXX Dev Team](https://www.amxmodx.org/)         | 1.9.0.5281   |
-| 💣 [MetaMod -r](https://github.com/theAsmodai/metamod-r)                                 | [theAsmodai](https://github.com/theAsmodai)            | 1.3.128      |
+| 💣 [MetaMod -r](https://github.com/theAsmodai/metamod-r)                                 | [theAsmodai](https://github.com/theAsmodai)            | 1.3.0.86      |
 | 📈 [ReHLDS](https://github.com/dreamstalker/rehlds/)                                     | [dreamstalker](https://github.com/dreamstalker)          | 3.11.0.777   |
 | ⚙️ [ReAPI](https://github.com/s1lentq/reapi)      								                        | [s1lentq](https://github.com/s1lentq)               | 5.21.0.252   |
 | 💡 [ReGameDLL](https://github.com/s1lentq/ReGameDLL_CS)                                  | [s1lentq](https://github.com/s1lentq)               | 5.21.0.546   |
@@ -43,7 +43,7 @@
 | 👤 [Hitbox Fixer](https://github.com/Garey27/hitbox_fixer/releases)                             | [Garey27](https://github.com/Garey27) | 1.0.10        |
 
 ## Downloads
-- [Github Releases](https://github.com/PawelCode/BasePack/releases/latest)
+- [Github Releases](https://github.com/PawelCode/BasePack_win/releases/latest)
 
 ## Descriptions
 - [Please refer to the descriptions of the modules listed above.](https://1shot2kill.pl/topic/111764-rehlds-reverse-engineered-and-bugfixed-version-hlds/)
